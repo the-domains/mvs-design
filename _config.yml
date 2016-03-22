@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 1
+color:
+  saturation: 0.7132617
+  lightness: 0.8154122
+  brandStrength: 0.9707461
+  brandColors:
+    - '#FBFAFB'
+    - '#030203'
+    - '#666F76'
+    - '#03ABA3'
+    - '#028842'
+  rhythmicContrast: 0.5555556
+name: MVS Design
