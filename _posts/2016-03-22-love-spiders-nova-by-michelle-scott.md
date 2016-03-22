@@ -20,10 +20,10 @@ keywords:
 description: "Buy 'LOVE SPIDERS NOVA ' by Michelle Scott as a T-Shirt, Classic T-Shirt, Women's Fitted Scoop T-Shirt, Women's Fitted V-Neck T-Shirt, Women's Relaxed Fit T-Shirt, Sticker, iPhone Case/Skin, Samsung Galaxy Case/Skin, Throw Pillow, Tote Bag..."
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://www.redbubble.com/people/blueskies/works/4835162-love-spiders-nova?c=58345-girls-t-shirts&p=iphone-case'
+isBasedOnUrl: 'http://www.redbubble.com/people/blueskies/works/4835162-love-spiders-nova?p=womens-relaxed-fit&style=womens-relaxed-fit&body_color=white&print_location=front'
 title: LOVE SPIDERS NOVA by Michelle Scott
-datePublished: '2016-03-22T23:22:35.477Z'
-dateModified: '2016-03-22T23:02:46.320Z'
+datePublished: '2016-03-22T23:22:35.673Z'
+dateModified: '2016-03-22T23:02:25.983Z'
 sourcePath: _posts/2016-03-22-love-spiders-nova-by-michelle-scott.md
 published: true
 inFeed: true
@@ -33,4 +33,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>LOVE SPIDERS NOVA by Michelle Scott</h1><p>Buy 'LOVE SPIDERS NOVA ' by Michelle Scott as a T-Shirt, Classic T-Shirt, Women's Fitted Scoop T-Shirt, Women's Fitted V-Neck T-Shirt, Women's Relaxed Fit T-Shirt, Sticker, iPhone Case/Skin, Samsung Galaxy Case/Skin, Throw Pillow, Tote Bag...</p><img src="http://ih0.redbubble.net/image.12033294.5162/flat,800x800,075,f.jpg" /></article>
+<article style=""><h1>LOVE SPIDERS NOVA by Michelle Scott</h1><p>Buy 'LOVE SPIDERS NOVA ' by Michelle Scott as a T-Shirt, Classic T-Shirt, Women's Fitted Scoop T-Shirt, Women's Fitted V-Neck T-Shirt, Women's Relaxed Fit T-Shirt, Sticker, iPhone Case/Skin, Samsung Galaxy Case/Skin, Throw Pillow, Tote Bag...</p><img src="http://ih0.redbubble.net/image.12033354.5162/fc,550x550,white.jpg" /></article>
