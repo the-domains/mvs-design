@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
+typography_spectrum: 1
 color:
   saturation: 0.6469534
   brandStrength: 0
-  lightness: 0.3888889
+  rhythmicContrast: 0.2508961
   brandColors:
     - '#FBFAFB'
     - '#030203'
     - '#666F76'
     - '#03ABA3'
     - '#028842'
-  rhythmicContrast: 0.2508961
-typography_spectrum: 1
-layout_spectrum: 0.7060932
+  lightness: 0.3888889
+layout_spectrum: 0.5017921
 name: MVS Design
