@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 1
 color:
-  saturation: 0.06810036
+  saturation: 0.6272401
   brandStrength: 0.9707461
-  lightness: 0.672043
+  lightness: 0.344086
   brandColors:
     - '#FBFAFB'
     - '#030203'
     - '#666F76'
     - '#03ABA3'
     - '#028842'
-  rhythmicContrast: 0.07168459
+  rhythmicContrast: 0
+typography_spectrum: 1
 layout_spectrum: 1
 name: MVS Design
