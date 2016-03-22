@@ -1,14 +1,26 @@
-layout_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 1
 color:
-  saturation: 0.7132617
-  lightness: 0.8154122
+  saturation: 0.06810036
   brandStrength: 0.9707461
+  lightness: 0.672043
   brandColors:
     - '#FBFAFB'
     - '#030203'
     - '#666F76'
     - '#03ABA3'
     - '#028842'
-  rhythmicContrast: 0.5555556
+  rhythmicContrast: 0.07168459
+layout_spectrum: 1
 name: MVS Design
