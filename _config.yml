@@ -12,15 +12,15 @@ collections:
       path: '/:title/'
 typography_spectrum: 1
 color:
-  saturation: 0
-  brandStrength: 0.3261649
-  lightness: 0.7473118
+  saturation: 0.6469534
+  brandStrength: 0
+  lightness: 0.3888889
   brandColors:
     - '#FBFAFB'
     - '#030203'
     - '#666F76'
     - '#03ABA3'
     - '#028842'
-  rhythmicContrast: 0.6164874
+  rhythmicContrast: 0.2508961
 layout_spectrum: 1
 name: MVS Design
