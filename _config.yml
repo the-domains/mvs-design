@@ -1,26 +1,33 @@
+name: MVS Design
+analytics: {}
+github: true
+author: {}
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+content: []
+layout_spectrum: 0.4285280325037824
 color:
-  saturation: 0.6469534
-  brandStrength: 0
-  lightness: 0.7437276
+  lightness: 0.653703255337746
   brandColors:
-    - '#FBFAFB'
-    - '#030203'
-    - '#666F76'
-    - '#03ABA3'
-    - '#028842'
-  rhythmicContrast: 0.2508961
-typography_spectrum: 1
-layout_spectrum: 0.8835126
-name: MVS Design
+    - '#E7E8D1'
+    - '#D3CEAA'
+    - '#FBF7E4'
+    - '#424242'
+    - '#8E001C'
+  saturation: 0.820722707873948
+  brandStrength: 0.5239310712542495
+  rhythmicContrast: 0.09797598819607997
+content_rating:
+  adult: false
+typography_spectrum: 0.8617146037264478
+opengraph: {}
