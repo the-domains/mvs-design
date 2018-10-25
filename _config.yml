@@ -1,3 +1,16 @@
+layout_spectrum: 0.046694286688240154
+typography_spectrum: 0.3974702722647476
+color:
+  lightness: 0.4748695946375074
+  brandColors:
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+  saturation: 0.6696543717755946
+  brandStrength: 0.49985948071529224
+  rhythmicContrast: 0.9135564389637681
 name: MVS Design
 analytics: {}
 github: true
@@ -15,19 +28,6 @@ collections:
     permalink:
       path: '/:title/'
 content: []
-layout_spectrum: 0.4285280325037824
-color:
-  lightness: 0.653703255337746
-  brandColors:
-    - '#E7E8D1'
-    - '#D3CEAA'
-    - '#FBF7E4'
-    - '#424242'
-    - '#8E001C'
-  saturation: 0.820722707873948
-  brandStrength: 0.5239310712542495
-  rhythmicContrast: 0.09797598819607997
 content_rating:
   adult: false
-typography_spectrum: 0.8617146037264478
 opengraph: {}
